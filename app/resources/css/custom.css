@@ -1,0 +1,29 @@
+.select2-container .select2-selection--single {
+    height: 38px !important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    line-height: 38px !important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 38px !important;
+}
+.quantityInput{
+width: 50px !important;
+padding: 6px 3px;
+text-align: center;
+border: 1px solid #cfb1b1;
+outline: 0;
+margin-right: 1px;
+}
+.custom-color1 {   
+    background-color: #Af1763;
+}
+.custom-color2 {
+    background-color: #191C24;
+}
+.bg-image{
+    background-image: url('https: //gratisography.com/wp-content/uploads/2024/11/gratisography-augmented-reality-800x525.jpg');
+    }
+   
